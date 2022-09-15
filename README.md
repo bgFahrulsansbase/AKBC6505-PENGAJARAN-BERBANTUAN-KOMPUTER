@@ -19,7 +19,7 @@ Oleh Robert P. Taylor, II, Kolese Guru Universitas Columbia
 
 ##  1. Komputer sebagai Tutor
 
-        Berfungsi sebagai "guru" dalam beberapa mata pelajaran, komputer harus diprogram oleh "ahli" dalam pemrograman dan dalam mata pelajaran itu. Siswa kemudian dibimbing oleh komputer yang menjalankan program. Komputer menyajikan beberapa materi pelajaran, siswa merespon, komputer mengevaluasi respon, dan dari hasil evaluasi, menentukan apa yang akan disajikan selanjutnya. Yang terbaik, tutor komputer menyimpan catatan lengkap pada setiap siswa yang diajari; ia memiliki berbagai detail subjek yang dapat disajikannya; dan memiliki cara yang luas dan fleksibel untuk menguji dan kemudian mengarahkan siswa melalui materi. Dengan perangkat lunak yang dirancang dengan baik, tutor komputer dapat dengan mudah dan cepat menyesuaikan presentasinya untuk mengakomodasi berbagai perbedaan siswa. 
+    Berfungsi sebagai "guru" dalam beberapa mata pelajaran, komputer harus diprogram oleh "ahli" dalam pemrograman dan dalam mata pelajaran itu. Siswa kemudian dibimbing oleh komputer yang menjalankan program. Komputer menyajikan beberapa materi pelajaran, siswa merespon, komputer mengevaluasi respon, dan dari hasil evaluasi, menentukan apa yang akan disajikan selanjutnya. Yang terbaik, tutor komputer menyimpan catatan lengkap pada setiap siswa yang diajari; ia memiliki berbagai detail subjek yang dapat disajikannya; dan memiliki cara yang luas dan fleksibel untuk menguji dan kemudian mengarahkan siswa melalui materi. Dengan perangkat lunak yang dirancang dengan baik, tutor komputer dapat dengan mudah dan cepat menyesuaikan presentasinya untuk mengakomodasi berbagai perbedaan siswa. 
 <br>
 
 ## 2. Komputer sebagai Alat
