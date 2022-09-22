@@ -6,7 +6,7 @@ Highlighter notes
 > indentasi
 ---
 
-__bold__
+**bold**
 
 moodle untuk mengelola kelas
 
