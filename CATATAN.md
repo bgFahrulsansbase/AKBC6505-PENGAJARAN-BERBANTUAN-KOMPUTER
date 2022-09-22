@@ -4,8 +4,13 @@
 |--------|-----|
 | Fahrul | 1910131210004|
 
-Pengertian Asynchronous dan Synchronous
+# Pengertian Asynchronous dan Synchronous
+## Asynchronous 
+Pengertian Asynchronous (Waktu tidak bersamaan contoh : wa, fb, tele, youtube)
+Komunikasi online Tidak Langsung atau Asynchronous adalah mediasi computer dan layanan daring dalam terlaksanakannya komunikasi yang di lakukan secara tunda, dengan menggunakan media seperti e-mail, forum, dan membaca dan menulis dokumen online melalui World Wide Web.
 
+## Synchronous
+Waktu bersamaan (contoh : Video call, zoom)
 
 |Online learning dibutuhkan oleh lembaga saat :| Online Learning dibutuhkan pembelajar pada saat : |
 |-------|------|
