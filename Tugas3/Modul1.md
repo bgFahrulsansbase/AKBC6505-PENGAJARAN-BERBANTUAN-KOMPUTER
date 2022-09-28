@@ -1,5 +1,7 @@
 # __Modul 1 : Konsep Pembelajaran Online__
 
+---
+
 ## __Kegiatan Belajar 1 : Perubahan Pola Pembelajaran__
 
 ### __Latihan__
@@ -19,7 +21,6 @@
 
 ### __Latihan__
 
-Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih mendalami materi konsep Online Learning, kerjakanlah latihan berikut:
 1. Carilah definisi online learning yang diambil dari sumber Jurnal Internasional;.
 2. Untuk melakukan analisis tersebut, isilah format berikut ini :
 
@@ -37,5 +38,21 @@ Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih menda
 | Judul Artikel :
 | Sumber (google cendekia)
 | Tahun :                                                                                                        
+---
 
+## Kegiatan Belajar 3
+
+- ### Latihan
+Menurut Hernawan dkk, (2006) format pendidikan pada abad 21, yaitu:
+
+| Aspek dalam 21st Centry  Skill yang relevan dengan Online Learning      | Penafsiran (Analisis Anda)  |
+| --------------------  | ----------- |
+| Cyber (E-Learning) Cyber atau electronic learning | Pembelajaran menggunakan teknologi komputer atau internet.|
+| Pembelajaran jarak jauh (Open and Distance Learning)           | Pembelajaran yang dilakukan tanpa guru dan murid bertatap langsung    |
+| Quantum learning              | Pembelajaran yang metodenya disesuaikan dengan cara kerja otak manusia.| 
+| Cooperative Learning              | Pembelajaran dengan menggunakan kelompok kecil, dimana siswa diharapkan bias bekerja sama dan bertanggungjawab atas tugasnya      |
+| Society Technology Science (STS)             | Pendekatan ini digunakan untuk siswa agar dapat mengintegrasikan pembelajaran dengan permasalahan dalam ilmu pengetahuan, teknologi dan masyarakat.    |
+| Accalerated Learning            | Kemapuan untuk menyerap informasi baru secara cepat dan dapat mempertahannya.|
+
+- Keterampilan belajar dan inovasi yaitu keterampilan yang digunakan untuk mempersiapkan peserta didik agar siap dalam lingkungan kerja dan permasalahan kehidupan yang lebih kompleks pada abad 21. Fokus pada keterampilan ini adalah berpikir kritis dan pemecahan masalah (bernalar secara efektif, menggunakan berpikir secara sistem, membuat penilaian serta keputusan, memecahkan masalah), berpikir kreatif dan inovatif (berpikir kreatif, bekerja kreatif, menerapkan inovasi), serta komunikasi dan kolaborasi (berkomunikasi efektif dan berkolaborasi dengan orang lain).
 
