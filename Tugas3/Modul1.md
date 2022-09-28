@@ -21,8 +21,7 @@
 
 ### __Latihan__
 
-1. Carilah definisi online learning yang diambil dari sumber Jurnal Internasional;.
-2. Untuk melakukan analisis tersebut, isilah format berikut ini :
+1. Definisi online learning 
 
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
