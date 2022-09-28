@@ -1,5 +1,6 @@
-### __Kegiata Belajar 1__
+### __Kegiatan Belajar 1 : Perubahan Pola Pembelajaran__
 
+### __Latihan__
 1. Buatlah contoh situasi pembelajaran dari masing-masing pola pembelajaran yang disampaikan oleh Borry Mories.
 
 
@@ -10,9 +11,11 @@
 |__Pola Guru dan Media__         |Pola gru dan media                                                            |
 |__Pola Bermedia__               |Pola bermedia                        |
 
-# __Kegiatan Belajar 2 Konsep Pembelajaran Online__
+---
 
-### __Latihan 2__
+# __Kegiatan Belajar 2 : Konsep Pembelajaran Online__
+
+### __Latihan__
 
 Saudara mahasiswa, saatnya untuk mengerjakan latihan agar Anda dapat lebih mendalami materi konsep Online Learning, kerjakanlah latihan berikut:
 1. Carilah definisi online learning yang diambil dari sumber Jurnal Internasional;.
