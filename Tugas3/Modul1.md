@@ -1,4 +1,6 @@
-### __Kegiatan Belajar 1 : Perubahan Pola Pembelajaran__
+# __Modul 1 : Konsep Pembelajaran Online__
+
+## __Kegiatan Belajar 1 : Perubahan Pola Pembelajaran__
 
 ### __Latihan__
 1. Buatlah contoh situasi pembelajaran dari masing-masing pola pembelajaran yang disampaikan oleh Borry Mories.
@@ -13,7 +15,7 @@
 
 ---
 
-# __Kegiatan Belajar 2 : Konsep Pembelajaran Online__
+## __Kegiatan Belajar 2 : Konsep Pembelajaran Online__
 
 ### __Latihan__
 
