@@ -26,8 +26,8 @@
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
 | Definisi I                                           |                                                           |
-| Judul Artikel : Pembelajaran Online di Tengah Pandemi Covid-19                                               |Pelaksanaan pembelajaran online memungkinkan mahasiswa untuk mengikuti perkuliahan dari rumah masing-masing. Hal ini mendorong munculnya perilaku social distancing dan meminimalisir kemungkinan munculnya kerumunan mahsiswa di kampus. Dua hal ini merupakan langkah-langkah yang direkomendasikan WHO dalam menekan penyebaran Covid- 19. Meski demikian, pembelajaran online di daerah-daerah yang tidak dijangkau jaringan internet harus diawasi karena berpotensi memunculkan kerumunan di area-area tertentu yang justru meningkatkan kemungkinan penyebaran Covid-19.                                                            |
-| Sumber (google cendekia)                             |                                                           |
+| Judul Artikel                                        |Konsep pembelajaran daring berbasis pendekatan ilmiah. Penerbit CV. Sarnu Untung.                                                           |
+| Sumber (google cendekia)                             | Pohan, A. E. (2020). Konsep pembelajaran daring berbasis pendekatan ilmiah. Penerbit CV. Sarnu Untung.                                                          |
 | Tahun : 2020                                         |                                                           |
 | Definisi II                                          |                                                           |
 | Judul Artikel :                                      | The theory and practice of online learning.| 
