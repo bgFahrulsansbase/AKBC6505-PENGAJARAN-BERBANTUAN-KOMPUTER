@@ -26,17 +26,17 @@
 |__Definisi Online Learning (Tuliskan Nama Jurnalnya)__|__Analisis dan berikan penefsiran Pada Kolom di bawah ini__|
 |------------------------------------------------------|-----------------------------------------------------------|
 | Definisi I                                           |                                                           |
-| Judul Artikel                                        |Konsep pembelajaran daring berbasis pendekatan ilmiah. Penerbit CV. Sarnu Untung.                                                           |
-| Sumber (google cendekia)                             | Pohan, A. E. (2020). Konsep pembelajaran daring berbasis pendekatan ilmiah. Penerbit CV. Sarnu Untung.                                                          |
+| Judul Artikel                                        |Pembelajaran daring untuk pendidikan: Teori dan penerapan.    |
+| Sumber                                               | Yuliani, M., Simarmata, J., Susanti, S. S., Mahawati, E., Sudra, R. I., Dwiyanto, H., ... & Yuniwati, I. (2020). Pembelajaran daring untuk pendidikan: Teori dan penerapan. Yayasan Kita Menulis.      |
 | Tahun : 2020                                         |                                                           |
 | Definisi II                                          |                                                           |
-| Judul Artikel :                                      | The theory and practice of online learning.| 
-| Sumber (google cendekia)                             | Anderson, T. (Ed.). (2008). The theory and practice of online learning. Athabasca University Press.|
-| Tahun :                                              | 2008 |
-| Definisi III
-| Judul Artikel :
-| Sumber (google cendekia)
-| Tahun :                                                                                                        
+| Judul Artikel :                                      | Konsep pembelajaran daring berbasis pendekatan ilmiah. | 
+| Sumber                                               | Pohan, A. E. (2020). Konsep pembelajaran daring berbasis pendekatan ilmiah. Penerbit CV. Sarnu Untung.   |
+| Tahun :                                              | 2020|
+| Definisi III                                         |   |
+| Judul Artikel                                        |      |
+| Sumber                                              |       |
+| Tahun :                                             |       |                                                           
 ---
 
 ## Kegiatan Belajar 3
