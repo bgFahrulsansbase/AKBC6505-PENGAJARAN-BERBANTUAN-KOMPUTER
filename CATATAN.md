@@ -1,8 +1,13 @@
 # CATATAN MEMBUAT TABEL 
 
 | Nama   | NIM |
-|--------|-----|
+|-|-|
 | Fahrul | 1910131210004|
+
+|Clue|Note|kolom3|
+|-|-|-|
+|apakah aku ini | hayooo|3|
+|apakah aku ini | hayooo|3|
 
 # Pengertian Asynchronous dan Synchronous
 ## Asynchronous 
